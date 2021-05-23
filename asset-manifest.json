@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/alzheimer-lab/static/css/main.7034ab9c.chunk.css",
+    "main.js": "/alzheimer-lab/static/js/main.e1c246da.chunk.js",
+    "main.js.map": "/alzheimer-lab/static/js/main.e1c246da.chunk.js.map",
+    "runtime-main.js": "/alzheimer-lab/static/js/runtime-main.a2a021f1.js",
+    "runtime-main.js.map": "/alzheimer-lab/static/js/runtime-main.a2a021f1.js.map",
+    "static/js/2.18c4e460.chunk.js": "/alzheimer-lab/static/js/2.18c4e460.chunk.js",
+    "static/js/2.18c4e460.chunk.js.map": "/alzheimer-lab/static/js/2.18c4e460.chunk.js.map",
+    "index.html": "/alzheimer-lab/index.html",
+    "precache-manifest.12f527cdf92095478bf8941c0fb8aa83.js": "/alzheimer-lab/precache-manifest.12f527cdf92095478bf8941c0fb8aa83.js",
+    "service-worker.js": "/alzheimer-lab/service-worker.js",
+    "static/css/main.7034ab9c.chunk.css.map": "/alzheimer-lab/static/css/main.7034ab9c.chunk.css.map",
+    "static/js/2.18c4e460.chunk.js.LICENSE.txt": "/alzheimer-lab/static/js/2.18c4e460.chunk.js.LICENSE.txt",
+    "static/media/delete.png": "/alzheimer-lab/static/media/delete.ceb7f855.png",
+    "static/media/endView.jpeg": "/alzheimer-lab/static/media/endView.372dbf44.jpeg",
+    "static/media/multi.jpeg": "/alzheimer-lab/static/media/multi.23759836.jpeg",
+    "static/media/open_screen.png": "/alzheimer-lab/static/media/open_screen.e3682b4d.png",
+    "static/media/three.jpeg": "/alzheimer-lab/static/media/three.a92cd407.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2a021f1.js",
+    "static/js/2.18c4e460.chunk.js",
+    "static/css/main.7034ab9c.chunk.css",
+    "static/js/main.e1c246da.chunk.js"
+  ]
+}
