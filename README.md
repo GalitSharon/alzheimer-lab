@@ -1,3 +1,16 @@
+## Galit note
+In Order to run this project in browser, 
+you need to download contacts-list file,
+and upload it in the first screen.
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
